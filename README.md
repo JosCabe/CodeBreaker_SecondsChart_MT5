@@ -1,11 +1,11 @@
-<p align="center">
-  <img src="https://github.com/JosCabe/CodeBreaker_SecondsFeeder/blob/main/CODEBREAKER%20banner111x.jpg?raw=true" alt="CodeBreaker Banner" width="1000">
-</p>
+
 
 # CodeBreaker_SecondsFeeder
 EA profesional para generar gráficos de temporalidad de SEGUNDOS (15s, 10s, etc.) en tiempo real. Desarrollado por José Cabello / CodeBreaker™.
 =======
-
+<p align="center">
+  <img src="https://github.com/JosCabe/CodeBreaker_SecondsFeeder/blob/main/CODEBREAKER%20banner111x.jpg?raw=true" alt="CodeBreaker Banner" width="1000">
+</p>
 
 <h1 align="center">⚡ CodeBreaker Seconds Feeder ⚡</h1>
 <p align="center">
