@@ -2,9 +2,11 @@
 
 # CodeBreaker_SecondsChart_MT5
 
+
 <p align="center">
   <img src="https://github.com/JosCabe/CodeBreaker_SecondsFeeder/blob/main/CODEBREAKER%20banner111x.png?raw=true" alt="CodeBreaker Banner" width="1000">
 </p>
+
 
 EA profesional para generar gráficos de temporalidad de SEGUNDOS (15s, 10s, etc.) en tiempo real. Desarrollado por José Cabello / CodeBreaker™.
 =======
