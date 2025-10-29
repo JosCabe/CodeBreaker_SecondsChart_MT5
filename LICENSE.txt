@@ -1,0 +1,18 @@
+Copyright (c) 2025 José Cabello / CodeBreaker™
+
+Todos los derechos reservados.
+
+El contenido de este repositorio, incluyendo código fuente, documentación, nombres, y estructura, está protegido por derechos de autor.
+
+Se permite:
+- Descargar y revisar la versión pública con fines educativos o de demostración.
+- Utilizar el código en entornos locales **sin distribución ni reventa**.
+
+No se permite:
+- Reproducir, modificar, redistribuir ni vender este software, total o parcialmente, sin autorización expresa por escrito del autor.
+- El uso del nombre "CodeBreaker™" con fines comerciales sin consentimiento del titular.
+
+El núcleo lógico (“CodeBreaker Engine”) y sus algoritmos internos están protegidos y no se incluyen en esta versión pública.
+
+Para obtener una licencia comercial, contactar al autor en:
+👉 https://github.com/JosCabe
