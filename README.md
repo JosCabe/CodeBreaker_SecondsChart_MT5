@@ -12,7 +12,7 @@ EA profesional para generar gráficos de temporalidad de SEGUNDOS (15s, 10s, etc
 =======
 
 
-<h1 align="center">⚡ CodeBreaker Seconds Feeder ⚡</h1>
+<h1 align="center">⚡ CodeBreaker_SecondsChart_MT5 ⚡</h1>
 <p align="center">
   <b>Generador profesional de gráficos de segundos (15s, 10s, etc.) para MetaTrader 5</b><br>
   Desarrollado por <b>José Cabello / CodeBreaker™</b>
