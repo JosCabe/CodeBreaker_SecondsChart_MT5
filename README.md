@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/CODEBREAKER banner111x.png" alt="CodeBreaker Trading Banner" width="100%"/>
+  <img src="https://github.com/JosCabe/CodeBreaker_SecondsFeeder/blob/main/CODEBREAKER%20banner111x.jpg?raw=true" alt="CodeBreaker Banner" width="1000">
 </p>
 
 # CodeBreaker_SecondsFeeder
