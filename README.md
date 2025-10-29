@@ -21,7 +21,7 @@ EA profesional para generar gráficos de temporalidad de SEGUNDOS (15s, 10s, etc
 ---
 
 
-# CodeBreaker_SecondsFeeder 🧠⚙️  
+# CodeBreaker_SecondsChart_MT5 🧠⚙️  
 **Versión pública de demostración**
 
 EA profesional para **generar y actualizar gráficos de segundos (15s, 10s, etc.) en tiempo real** dentro de MetaTrader 5.  
@@ -31,7 +31,7 @@ Desarrollado por **José Cabello / CodeBreaker™**.
 
 ## 🧩 Descripción general
 
-**CodeBreaker_SecondsFeeder** permite crear y mantener actualizados gráficos personalizados con velas de segundos directamente en MT5,  
+**CodeBreaker_SecondsChart_MT5** permite crear y mantener actualizados gráficos personalizados con velas de segundos directamente en MT5,  
 sin depender de herramientas externas. Esta versión pública muestra el comportamiento visual y estructural del sistema,  
 pero **no incluye el núcleo lógico propietario (CodeBreaker Engine)** utilizado en la versión comercial.
 
@@ -62,10 +62,10 @@ pero **no incluye el núcleo lógico propietario (CodeBreaker Engine)** utilizad
 
 ## 📁 Estructura del proyecto
 
-CodeBreaker_SecondsFeeder/
+CodeBreaker_SecondsChart_MT5/
 │
 ├── src/
-│ └── CodeBreaker_SecondsFeeder_PUBLIC.mq5
+│ └── CodeBreaker_SecondsChart_MT5_PUBLIC.mq5
 │
 ├── README.md
 ├── LICENSE
