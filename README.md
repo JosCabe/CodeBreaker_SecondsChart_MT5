@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # CodeBreaker_SecondsFeeder
-EA profesional para generar y actualizar gráficos de segundos (15s, 10s, etc.) en tiempo real. Desarrollado por José Cabello / CodeBreaker™.
+EA profesional para generar gráficos de SEGUNDOS (15s, 10s, etc.) en tiempo real. Desarrollado por José Cabello / CodeBreaker™.
 =======
 <p align="center">
   <img src="assets/CODEBREAKER banner111x.png" alt="CodeBreaker Trading Banner" width="100%"/>
